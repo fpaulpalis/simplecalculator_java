@@ -7,7 +7,7 @@ Francis Paul Palis
 Submitted to: Sir Rofer Savella
 
 ---
-# To Run the Application, clone the repository and 
+**To Run the Application, clone the repository** and from the terminal execute:
 ```jsx
 java main.java
 ```
